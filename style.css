@@ -575,8 +575,7 @@ footer section:nth-child(1){
 
 }
 
-footer section:nth-child(1) #mapContainer{
-    background-image: url(img/map.jpg);
+footer section:nth-child(1) iframe{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
