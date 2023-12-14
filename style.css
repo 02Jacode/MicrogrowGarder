@@ -299,6 +299,13 @@ button:hover{
     border-radius: 12px 12px 0px 0px;
 }
 
+.productCard img{
+    position: absolute;
+    height: 22rem;
+    width: 18rem;
+    transition: .5s;
+}
+
 .productCard img:hover,
 .productCardplant img{
     position: absolute;
